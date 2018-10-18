@@ -10,7 +10,7 @@ This assignment lets you practise a bit more with the difference between referen
 - terminal.
 
 ## Required Tasks
-1. Write a `main` function which declares
+1. Create a file called `pointer_func.c` and write a `main` function which declares
    - an integer variable `int_value`
    - a pointer to an integer `int_pointer`
 
