@@ -20,7 +20,7 @@ This assignment lets you practise a bit more with the difference between referen
    - an integer variable `int_value`
    - a pointer to an integer `int_pointer`
    
-   The function shall print *the values* of both parameters in the following form
+   The function shall print *the values* (note, also the *value* at the address which is stored in `int_pointer`) of both parameters in the following form
    `Got an integer value <x> and an address to an integer with value <y>` where `<x>` and `<y>` shall be replaced by the actual values of the parameters passed.
    
 4. Call the function `print_integers` in the `main` function and test your implementation.
